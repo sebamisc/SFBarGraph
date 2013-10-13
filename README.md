@@ -48,4 +48,4 @@ The colors can be set in the ```SFBarGraph.m``` file by changing the return valu
 The ***SFBarGraphDemoApp*** contains an iPhone .xcodeproj to demonstrate the capabilities.
 
 ### Screenshots
-![Screen1](/path/to/img.jpg) ![Screen2](/path/to/img.jpg)
+![Screen1](/img/img.png)
